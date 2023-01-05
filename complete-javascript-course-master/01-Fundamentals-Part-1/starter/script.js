@@ -151,7 +151,7 @@ switch (language) {
       break;
 }*/
 
-let country = 'India';
+let country = 'Paris';
 let population = 333;
 
 console.log(`${country} population is ${population > 33 ? 'above' : 'below'} average` );
